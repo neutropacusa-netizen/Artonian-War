@@ -6,50 +6,52 @@
     "minimum": "11",
     "verified": "11"
   },
+  "manifest": "https://raw.githubusercontent.com/neutropacusa-netizen/Artonian-War/main/guerra-artoniana/module.json",
+  "download": "https://raw.githubusercontent.com/neutropacusa-netizen/Artonian-War/main/guerra-artoniana.zip",
   "packs": [
     {
       "name": "personagens",
       "label": "Personagens",
       "path": "packs/personagens",
       "type": "Actor",
+      "system": "tormenta20",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "tormenta20"
+      }
     },
     {
       "name": "itens",
       "label": "Itens",
       "path": "packs/itens",
       "type": "Item",
+      "system": "tormenta20",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "tormenta20"
+      }
     },
     {
       "name": "tabelas-de-encontros",
       "label": "Tabelas de Encontros",
       "path": "packs/tabelas-de-encontros",
       "type": "RollTable",
+      "system": "tormenta20",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "tormenta20"
+      }
     },
     {
       "name": "macros",
       "label": "Macros",
       "path": "packs/macros",
       "type": "Macro",
+      "system": "tormenta20",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "tormenta20"
+      }
     }
   ]
 }
