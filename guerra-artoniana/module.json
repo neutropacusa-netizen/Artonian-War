@@ -3,9 +3,11 @@
   "title": "Guerra Artoniana",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "13",
+    "verified": "13"
   },
+  "download": "https://github.com/neutropacusa-netizen/Artonian-War/blob/main/guerra-artoniana/guerra-artoniana.rar",
+"manifest": "https://github.com/neutropacusa-netizen/Artonian-War/blob/main/guerra-artoniana/module.json",
   "packs": [
     {
       "name": "personagens",
