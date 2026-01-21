@@ -1,0 +1,55 @@
+{
+  "id": "guerra-artoniana",
+  "title": "Guerra Artoniana",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "personagens",
+      "label": "Personagens",
+      "path": "packs/personagens",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20"
+    },
+    {
+      "name": "itens",
+      "label": "Itens",
+      "path": "packs/itens",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20"
+    },
+    {
+      "name": "tabelas-de-encontros",
+      "label": "Tabelas de Encontros",
+      "path": "packs/tabelas-de-encontros",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20"
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20"
+    }
+  ]
+}
