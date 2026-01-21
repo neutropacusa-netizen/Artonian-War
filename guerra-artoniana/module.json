@@ -6,8 +6,8 @@
     "minimum": "13",
     "verified": "13"
   },
-  "download": "https://github.com/neutropacusa-netizen/Artonian-War/blob/main/guerra-artoniana/guerra-artoniana.zip",
-"manifest": "https://raw.githubusercontent.com/neutropacusa-netizen/Artonian-War/main/guerra-artoniana/module.json",
+  "manifest": "https://raw.githubusercontent.com/neutropacusa-netizen/Artonian-War/main/guerra-artoniana/module.json",
+  "download": "https://github.com/neutropacusa-netizen/Artonian-War/archive/refs/heads/main.zip",
   "packs": [
     {
       "name": "personagens",
