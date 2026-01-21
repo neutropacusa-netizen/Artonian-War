@@ -1,13 +1,19 @@
 {
   "id": "guerra-artoniana",
   "title": "Guerra Artoniana",
+  "description": "Módulo da campanha Guerra Artoniana para Tormenta20",
   "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Neutropac"
+    }
+  ],
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "manifest": "https://raw.githubusercontent.com/neutropacusa-netizen/Artonian-War/main/guerra-artoniana/module.json",
-  "download": "https://raw.githubusercontent.com/neutropacusa-netizen/Artonian-War/main/guerra-artoniana.zip",
+  "manifest": "https://raw.githubusercontent.com/neutropacusa-netizen/Artonian-War/main/artonian-war/module.json",
+  "download": "https://raw.githubusercontent.com/neutropacusa-netizen/Artonian-War/main/artonian-war.zip",
   "packs": [
     {
       "name": "personagens",
